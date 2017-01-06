@@ -3,7 +3,7 @@
     "description": "An SEO extension for Magento 2",
     "homepage": "https://github.com/adampmoss/foxseo2",
     "require": {
-        "magento/magento-composer-installer": "*",
+        "magento/magento-composer-installer": "*"
     },
     "type": "magento2-module",
     "version": "2.0.0",
